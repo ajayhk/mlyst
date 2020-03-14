@@ -1,0 +1,9 @@
+torch>=1.2.0
+torchvision>=0.4.0
+onnxruntime==1.1.2
+onnx>=1.6.0
+Pillow==6.1.0
+numpy>=1.17.2
+netron>=3.5.0
+matplotlib>=3.1.1
+pytest>=5.3.2
